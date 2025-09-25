@@ -19,6 +19,16 @@ Before running this application, ensure you have:
 2. **Ollama** installed and running locally
 3. **LLaMA 3.2 Vision model** pulled in Ollama
 
+##  Offline GPT Screenshot
+
+<p align="center">
+  <img src="https://github.com/SushilkumarBarai/OfflineGPT/blob/main/Screenshot_1.png" alt="Screenshot_1" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/SushilkumarBarai/OfflineGPT/blob/main/Screenshot_2.png" alt="Screenshot_1" width="600"/>
+</p>
+
 ## Installation
 
 ### 1. Install Ollama
